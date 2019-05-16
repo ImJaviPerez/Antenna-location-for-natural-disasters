@@ -7,7 +7,7 @@ Please find the article at [www.sciencedirect.com](https://www.sciencedirect.com
 
 This work is part of the [Master de Modelización Matemática Estadística y Computación](https://www.ehu.eus/es/web/master/master-modelizacion-investigacion-matematica-estadistica-computacion).
 
-This repository is about the cited article, modelling the problem and proposing a new point of view around that.
+This repository is about the cited article: Here it is implemented that problem and it is proposed a new point of view around that.
 
 # Thanks
-My sincerest gratitude to Mr V. Marianov for sending me article's raw data .
+My sincerest gratitude to Mr. V. Marianov for sending me article's raw data .

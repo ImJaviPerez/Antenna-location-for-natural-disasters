@@ -9,5 +9,5 @@ This work is part of the [Master de Modelización Matemática Estadística y Com
 
 This repository is about the cited article: Here it is implemented that problem and it is proposed a new point of view around that.
 
-# Thanks
+# Acknowledgement
 My sincerest gratitude to Mr. V. Marianov for sending me article's raw data .
